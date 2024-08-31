@@ -1,0 +1,10 @@
+1. Pizza Margherita	 - 80.99 DH
+2. Burger Classique	 - 111.00 DH
+3. Salade Cesar   	 - 50.99 DH
+4. couscous     	 - 40.54 DH
+5. Tacos        	 - 100.00 DH
+6. Tajine de poulet	 - 80.00 DH
+7. jus de fraise	 - 20.00 DH
+8. jus de mangue	 - 20.00 DH
+9. jus d'avocat  	 - 18.00 DH
+10. Rayeb beldi  	 - 5.00 DH

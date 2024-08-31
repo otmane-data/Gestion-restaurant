@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1704087870 source:c:\users\dell 5410\desktop\liste chaine circulaire\prjet cccc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+
+1704087870 source:c:\users\dell 5410\onedrive\desktop\s1\projet c (gestion de restauration)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+
