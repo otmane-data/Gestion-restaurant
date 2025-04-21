@@ -72,15 +72,13 @@ Ce projet est une application console en langage **C** permettant de gérer effi
 
 ## 👥 Auteurs
 
-- [Nom de l’auteur / équipe]  
-*(À compléter)*
+-Bourabaa
 
 ---
 
 ## 📄 Licence
 
 Ce projet est sous licence **[Nom de la licence]**.  
-*(À spécifier, par exemple MIT, GPL, etc.)*
 
 ---
 
