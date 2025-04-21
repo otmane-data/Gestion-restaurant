@@ -72,7 +72,8 @@ Ce projet est une application console en langage **C** permettant de gérer effi
 
 ## 👥 Auteurs
 
--Bourabaa
+-Bourabaa and otmane-data
+
 
 ---
 
